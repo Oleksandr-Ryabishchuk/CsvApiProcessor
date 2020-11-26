@@ -1,0 +1,14 @@
+TransactionId,Status,Type,ClientName,Amount
+4,Cancelled,Refill,Quentin Bonner,$64.52
+7,Cancelled,Refill,Slade Rios,$52.60
+11,Cancelled,Refill,Flynn Whitley,$95.75
+12,Cancelled,Refill,Chase Salas,$95.25
+21,Cancelled,Refill,Kevin Wiley,$42.04
+41,Cancelled,Refill,Jin Prince,$95.10
+47,Cancelled,Refill,Laith Villarreal,$74.68
+65,Cancelled,Refill,Armand Miller,$10.93
+73,Cancelled,Refill,Sean Head,$11.36
+89,Cancelled,Refill,Brent Skinner,$48.10
+92,Cancelled,Refill,Galvin Knapp,$90.98
+94,Cancelled,Refill,Myles Wright,$87.57
+97,Cancelled,Refill,Quamar Avery,$34.22

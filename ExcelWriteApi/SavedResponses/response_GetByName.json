@@ -1,0 +1,16 @@
+[
+  {
+    "transactionId": 55,
+    "status": "Completed",
+    "type": "Refill",
+    "clientName": "Adam Shepherd",
+    "amount": 45.97
+  },
+  {
+    "transactionId": 79,
+    "status": "Completed",
+    "type": "Withdrawal",
+    "clientName": "Adam Riabinovych",
+    "amount": 69.92
+  }
+]

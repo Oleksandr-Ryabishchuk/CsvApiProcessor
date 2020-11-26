@@ -1,0 +1,93 @@
+[
+  {
+    "transactionId": 4,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Quentin Bonner",
+    "amount": 64.52
+  },
+  {
+    "transactionId": 7,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Slade Rios",
+    "amount": 52.6
+  },
+  {
+    "transactionId": 11,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Flynn Whitley",
+    "amount": 95.75
+  },
+  {
+    "transactionId": 12,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Chase Salas",
+    "amount": 95.25
+  },
+  {
+    "transactionId": 21,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Kevin Wiley",
+    "amount": 42.04
+  },
+  {
+    "transactionId": 41,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Jin Prince",
+    "amount": 95.1
+  },
+  {
+    "transactionId": 47,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Laith Villarreal",
+    "amount": 74.68
+  },
+  {
+    "transactionId": 65,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Armand Miller",
+    "amount": 10.93
+  },
+  {
+    "transactionId": 73,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Sean Head",
+    "amount": 11.36
+  },
+  {
+    "transactionId": 89,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Brent Skinner",
+    "amount": 48.1
+  },
+  {
+    "transactionId": 92,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Galvin Knapp",
+    "amount": 90.98
+  },
+  {
+    "transactionId": 94,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Myles Wright",
+    "amount": 87.57
+  },
+  {
+    "transactionId": 97,
+    "status": "Cancelled",
+    "type": "Refill",
+    "clientName": "Quamar Avery",
+    "amount": 34.22
+  }
+]
